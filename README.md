@@ -1,6 +1,3 @@
-Here's a basic README file based on the provided HTML, CSS, and JavaScript files:
-
----
 
 # Modal Window
 
